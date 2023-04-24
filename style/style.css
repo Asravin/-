@@ -1,0 +1,33 @@
+html{
+    background-image: url(file:///C:/Users/AsRavin/Desktop/HTML/img/blue-toned-collection-of-paper-sheets-with-copy-space_23-2148320445.avif);
+    font-family: cursive;
+    text-align: left;
+    display: block;
+    margin: auto;
+}
+
+ol{
+    text-align: left;
+}
+
+ol{
+    border-style: ridge;
+    border-radius: 20px;
+}
+
+h1{
+    color:aquamarine;
+    text-shadow: 2px 2px 2px blue;
+}
+
+.h3_cervices{
+    color: aquamarine;
+    text-shadow: 2px 2px 2px blue;
+    text-align: left;
+}
+
+.h3_objects{
+    color: aquamarine;
+    text-shadow: 2px 2px 2px blue;
+    text-align: left;
+}
